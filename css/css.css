@@ -1,0 +1,85 @@
+@import "../css/color.css";
+
+td {
+    width: 100vw;
+    text-align: center;
+    font-family: "KHMenu";
+    font-size: large;
+}
+
+#container {
+    margin-left: 180px;
+    width: 80vw;
+    height: 100vh;
+    background-color: var(--bgcolor);
+    border-radius: 5px;
+}
+
+.ventus {
+    margin: 5px;
+    float: left;
+    border: none;
+    width: 26.1vw;
+    height: 99vh;
+    background-color: var(--venbg);
+    border-radius: 5px;
+    text-align: center;
+    font-family: "KHMain";
+    font-size: xx-large;
+}
+
+.aqua {
+    margin: 5px;
+    float: left;
+    border: none;
+    width: 26.1vw;
+    height: 99vh;
+    background-color: var(--aquabg);
+    border-radius: 5px;
+    text-align: center;
+    font-family: "KHMain";
+    font-size: xx-large;
+}
+
+.terra {
+    margin: 5px;
+    float: left;
+    border: none;
+    width: 26.1vw;
+    height: 99vh;
+    background-color: var(--terrabg);
+    border-radius: 5px;
+    text-align: center;
+    font-family: "KHMain";
+    font-size: xx-large;
+}
+
+.aquacont {
+    margin: 2px;
+    float: center;
+    border: none;
+    width: 25.9vw;
+    height: 5.4vh;
+    background-color: var(--content);
+    border-radius: 5px;
+}
+
+.ventuscont {
+    margin: 2px;
+    float: center;
+    border: none;
+    width: 25.9vw;
+    height: 6.15vh;
+    background-color: var(--content);
+    border-radius: 5px;
+}
+
+.terracont {
+    margin: 2px;
+    float: center;
+    border: none;
+    width: 25.9vw;
+    height: 5.75vh;
+    background-color: var(--content);
+    border-radius: 5px;
+}
